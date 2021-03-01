@@ -130,6 +130,6 @@
 .card__btn:hover {
     cursor: pointer;
     background-color: #F91155;
-    transition: all 1s;
-    box-shadow: 2px 3px 10px black;
+    transition: all 2s;
+    box-shadow: 2px 3px 5px black;
 }
