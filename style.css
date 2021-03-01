@@ -131,4 +131,5 @@
     cursor: pointer;
     background-color: #F91155;
     transition: all 1s;
+    box-shadow: 2px 3px 10px black;
 }
